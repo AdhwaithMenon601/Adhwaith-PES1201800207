@@ -1,0 +1,21 @@
+Description for IDS Project 
+Adhwaith Menon
+PES1201800207
+Section - C
+
+Info :-
+The given dataset is a "csv" file which contains all traffic warnings from Whitefield , Bengaluru over a range of 1 month .
+The data has been collected at four different junctions and contains different types of traffic warnings at these junctions along with location , time and type of warning.
+
+Source :- http://kaggle.com/apoorvwatsky/bangalore-accident-data/
+
+Size :- 22 MB (46,660 Rows , 6 Columns)
+
+Variables :- 
+Device Code - The code of the device that recorded the violation
+Device Latitude & Longitude - The location of the warning alert
+Device Area - The junction name of warning alert
+Warning Type - Gives the type of warning that occurred , for example , the warning can be Overspeeding or Jumping a signal etc.
+Speed - The speed of the vehicle that committed the violation
+Time - The date and time of a particular violation
+
